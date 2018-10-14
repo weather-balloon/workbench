@@ -1,0 +1,14 @@
+{
+  "name": "web-user-location",
+  "version": "0.1.0",
+  "description": "Enquiry into working with location data",
+  "scripts": {
+    "start": "npx http-server geo-api/ -o -p 7000"
+  },
+  "author": "Duncan Dickinson",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "http-server": "^0.11.1"
+  }
+}
